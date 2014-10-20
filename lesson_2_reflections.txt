@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Sets up basic housekeeping files and related structure for a git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is the prelude to an addition to the repository, which holds all possible variants of a possible working directory. 
+
+XXX
+
+	xxx
+
+XXX
+
+	xxx

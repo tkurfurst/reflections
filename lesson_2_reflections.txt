@@ -6,9 +6,9 @@ How is the staging area different from the working directory and the repository?
 
 	Staging area is the prelude to an addition to the repository, which holds all possible variants of a possible working directory. 
 
-XXX
+How can you use the staging area to make sure you have one commit per logical change?
 
-	xxx
+	Stage files after each logical change
 
 XXX
 

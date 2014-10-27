@@ -10,10 +10,19 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Stage files after each logical change
 
-XXX
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-	xxx
+	Where alternative versions of the file are required.  Branches help maintain parallel efforts and related code.
 
-TEST
+How do the diagrams help you visualize the branch structure?
 
-	xxx
+	Clearly illustrate the parent/child relationship and reachability
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	The aggregate result of two or more parallel work processes.  Sequential dependence is preserved
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: Git does a very good job merging automatically except where there are conflicts.
+	Cons: Conflict resolution is/can be complex, but necessary

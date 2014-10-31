@@ -8,4 +8,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+	Forks are duplicates (like clones) specifically of respositories on one GitHub account to another GitHub account.  Clones are copies of respositories.  Branches are alternative histories for a single repository.  Forks can be used to create alternative branches of someone's repository but retain the history of original source.  Clones are similar but no link remains.  Branches allow for alternative versions of the same code.
+
 	
